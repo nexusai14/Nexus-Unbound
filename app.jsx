@@ -1,4 +1,3 @@
-const apiKey = "AIzaSyBgn-pSyo4SkNvFuLFo4vA_Ns6bnEVdEwc"
 import React, { useState, useEffect, useRef } from 'react';
 import { 
   Send, Settings, User, Sparkles, X, 
@@ -7,7 +6,7 @@ import {
   Palette, MessageCircleWarning, Mail, ArrowLeft, MicOff
 } from 'lucide-react';
 
-const apiKey = ""; 
+const apiKey = "AIzaSyBgn-pSyo4SkNvFuLFo4vA_Ns6bnEVdEwc"
 const MODEL_NAME = "gemini-2.5-flash-preview-09-2025";
 
 export default function App() {
@@ -337,4 +336,4 @@ export default function App() {
       </div>
     </div>
    );
-+}
+}
