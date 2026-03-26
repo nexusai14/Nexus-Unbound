@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { 
   Send, Settings, User, Sparkles, X, 
   Paperclip, Camera, Image as ImageIcon, Mic, Ghost, 
-  Edit, ChevronsRight, Search, NotebookPen, LogOut,
+  Edit, ChevronsRight, Search, PenLine, LogOut,
   Palette, MessageCircleWarning, Mail, ArrowLeft, MicOff
 } from 'lucide-react';
 
